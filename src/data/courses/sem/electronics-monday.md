@@ -2,60 +2,27 @@
 title: Alapozó elektronikai tanfolyam (hétfő)
 society: SEM
 occasions:
-  - startDate: '2020-02-17T17:00Z'
-    endDate: '2020-02-17T19:00Z'
-    location: SCH102
+  - startDate: '2021-02-22T19:00Z'
+    endDate: '2021-02-22T21:00Z'
+    location: Teams
     instructors:
       - Illés Tibor
-      - Frey Balázs
       - Weisz Pál
+      - Fábián Bence
       - Várkonyi Kornél
-      - Fraknói Tamás
-  - startDate: '2020-02-24T17:00Z'
-    endDate: '2020-02-24T19:00Z'
-    location: SCH102
-    instructors:
-      - Illés Tibor
-      - Frey Balázs
-      - Weisz Pál
-      - Várkonyi Kornél
-      - Fraknói Tamás
-  - startDate: '2020-03-02T17:00Z'
-    endDate: '2020-03-02T19:00Z'
-    location: SCH102
-    instructors:
-      - Illés Tibor
-      - Frey Balázs
-      - Weisz Pál
-      - Várkonyi Kornél
-      - Fraknói Tamás
-  - startDate: '2020-03-09T17:00Z'
-    endDate: '2020-03-09T19:00Z'
-    location: SCH102
-    instructors:
-      - Illés Tibor
-      - Frey Balázs
-      - Weisz Pál
-      - Várkonyi Kornél
-      - Fraknói Tamás
-  - startDate: '2020-03-16T17:00Z'
-    endDate: '2020-03-16T19:00Z'
-    location: SCH102
-    instructors:
-      - Illés Tibor
-      - Frey Balázs
-      - Weisz Pál
-      - Várkonyi Kornél
-      - Fraknói Tamás
-  - startDate: '2020-03-23T17:00Z'
-    endDate: '2020-03-23T19:00Z'
-    location: SCH102
-    instructors:
-      - Illés Tibor
-      - Frey Balázs
-      - Weisz Pál
-      - Várkonyi Kornél
-      - Fraknói Tamás
+      - ???
+  - startDate: '2021-03-01T19:00Z'
+    endDate: '2021-03-01T21:00Z'
+    
+  - startDate: '2021-03-08T19:00Z'
+    endDate: '2021-03-08T21:00Z'
+    
+  - startDate: '2021-03-15T19:00Z'
+    endDate: '2021-03-15T21:00Z'
+    
+  - startDate: '2021-03-22T19:00Z'
+    endDate: '2021-03-22T21:00Z'
+
 moreInfoURL: https://sem.sch.bme.hu/tanfolyam/
 tags:
   - elektronika
